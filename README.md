@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 -->
 🔭 I'm a Computer Engineering student 
 
-🌱 I’m Devsecops Enthusiast
+🌱 I’mDeveloper and Cyber Security Enthusiast
 
