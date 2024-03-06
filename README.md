@@ -23,6 +23,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HRhizzz/HRhizzz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HRhizzz/output/snake.svg" alt="Snake animation" />
 
 ###
